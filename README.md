@@ -38,3 +38,6 @@ Paper Link:
 Code Link:
 1. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 ```
+
+We use the Youtube Pose dataset as found here: https://www.robots.ox.ac.uk/~vgg/data/pose/ 
+
