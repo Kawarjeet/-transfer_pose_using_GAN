@@ -6,27 +6,27 @@ We use the following papers to better understand the GAN network architecture:
 
 **1. GAN**: 
 ```
-**Paper Link**:
+Paper Link:
 1. https://paperswithcode.com/paper/deepfacelab-a-simple-flexible-and-extensible
 2. https://arxiv.org/pdf/1908.05932.pdf
-**Code Link**:
+Code Link:
 1. https://github.com/IanSullivan/DeepFakeTorch
 2. https://github.com/YuvalNirkin/fsgan
 ```
 **2. DCGAN**:
 ```
-**Paper Link**:
+Paper Link:
 1. https://arxiv.org/abs/1511.06434
-**Code Link**:
+Code Link:
 1. https://github.com/eriklindernoren/PyTorch-GAN
 ```
 **3. WGAN**:
 ```
-**Paper Link**:
+Paper Link:
 1. https://www.alexirpan.com/2017/02/22/wasserstein-gan.html
 2. https://arxiv.org/abs/1701.07875
 3. https://arxiv.org/abs/1704.00028
-**Code Link**:
+Code Link:
 1. https://github.com/eriklindernoren/PyTorch-GAN
 2. https://github.com/eriklindernoren/PyTorch-GAN
 ```
