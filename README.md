@@ -42,6 +42,9 @@ Paper Link:
 Code Link:
 1. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 ```
+For our code implementation using the paper: https://arxiv.org/abs/1804.07739 we have used tensorflow tutorial for pose estimation as given here: https://www.tensorflow.org/lite/examples/pose_estimation/overview 
+
+The code for the paper can found here: https://github.com/balakg/posewarp-cvpr2018
 
 We have included only 3 image folders from the Youtube image dataset in our repository due to size constraint, and the evaluation results in the report are based on these images. You may download the whole dataset using the link here: https://www.robots.ox.ac.uk/~vgg/data/pose/ 
 
