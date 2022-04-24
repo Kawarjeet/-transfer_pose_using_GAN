@@ -14,12 +14,14 @@ Code Link:
 2. https://github.com/YuvalNirkin/fsgan
 ```
 **2. DCGAN**:
+```
 Paper Link:
 1. https://arxiv.org/abs/1511.06434
 Code Link:
 1. https://github.com/eriklindernoren/PyTorch-GAN
-
+```
 **3. WGAN**:
+```
 Paper Link:
 1. https://www.alexirpan.com/2017/02/22/wasserstein-gan.html
 2. https://arxiv.org/abs/1701.07875
@@ -27,9 +29,12 @@ Paper Link:
 Code Link:
 1. https://github.com/eriklindernoren/PyTorch-GAN
 2. https://github.com/eriklindernoren/PyTorch-GAN
+```
 
 **4. Cycle GAN**:
+```
 Paper Link:
 1. https://arxiv.org/abs/1703.10593
 Code Link:
 1. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+```
