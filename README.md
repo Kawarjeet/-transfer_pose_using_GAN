@@ -43,7 +43,7 @@ Code Link:
 1. https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
 ```
 
-We use the Youtube Pose dataset as found here: https://www.robots.ox.ac.uk/~vgg/data/pose/ 
+We have included only 3 image folders from the Youtube image dataset in our repository due to size constraint, and the evaluation results in the report are based on these images. You may download the whole dataset using the link here: https://www.robots.ox.ac.uk/~vgg/data/pose/ 
 
 We use the UNET architecture in our Generator model using the following four modules:
 
