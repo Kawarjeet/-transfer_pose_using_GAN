@@ -4,12 +4,14 @@ Our project aims to generate new pose image from an existing pose image. Several
 
 We use the following papers to better understand the GAN network architecture: 
 **GAN**:
+'''
 Paper Link:
 1. https://paperswithcode.com/paper/deepfacelab-a-simple-flexible-and-extensible
 2. https://arxiv.org/pdf/1908.05932.pdf
 Code Link:
 1. https://github.com/IanSullivan/DeepFakeTorch
 2. https://github.com/YuvalNirkin/fsgan
+'''
 **DCGAN**:
 Paper Link:
 1. https://arxiv.org/abs/1511.06434
