@@ -45,3 +45,10 @@ Code Link:
 
 We use the Youtube Pose dataset as found here: https://www.robots.ox.ac.uk/~vgg/data/pose/ 
 
+We use the UNET architecture in our Generator model using the following four modules:
+
+1. Source Image Segmentation
+2. Spatial Transformation
+3. Foreground Synthesis
+4. Background Synthesis
+
