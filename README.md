@@ -45,7 +45,7 @@ Code Link:
 
 We have included only 3 image folders from the Youtube image dataset in our repository due to size constraint, and the evaluation results in the report are based on these images. You may download the whole dataset using the link here: https://www.robots.ox.ac.uk/~vgg/data/pose/ 
 
-We use the UNET architecture in our Generator model using the following four modules:
+We use the UNET architecture in our Generator model structuring it into following four modules:
 
 1. Source Image Segmentation
 2. Spatial Transformation
