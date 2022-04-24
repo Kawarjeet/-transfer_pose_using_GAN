@@ -55,3 +55,4 @@ We use the UNET architecture in our Generator model structuring it into followin
 3. Foreground Synthesis
 4. Background Synthesis
 
+The output can be found in phase1_output folder. 
