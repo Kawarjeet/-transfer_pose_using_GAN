@@ -1,5 +1,5 @@
 """
-Various important parameters of our model and training procedure.
+Various important parameters of our model and training procedure
 """
 
 
