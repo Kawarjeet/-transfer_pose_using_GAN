@@ -1,10 +1,10 @@
 # **Original Pose Re-Generation from fake pose using GAN with UNET architecture**
 
-Our project aims to generate new pose image from an existing pose image. Several models have been developed with improvements over time to best generate this pattern. The prominent ones like GAN's and UNET's have remarkable results. In our project we first intend to use a GAN network to generate a new pose and then use this newly generated image to recreate back the original pose. We compare the results of the original pose image and the recreated image to identify how accurately can we recreate the original pose from the fake pose. In our first phase of the project we train our GAN model on Youtube pose dataset based on this paper: https://arxiv.org/abs/1804.07739  We use Tensor Flow framework for our code implementation.
+Our project aims to generate new pose image from an existing pose image. Several models have been developed with improvements over time to best generate this pattern. The prominent ones like GAN's and UNET's have remarkable results. In our project we first intend to use a GAN network to generate a new pose and then use this newly generated image to recreate back the original pose. We compare the results of the original pose image and the recreated image to identify how accurately can we recreate the original pose from the fake pose. In our first phase of the project we train our GAN model on Youtube pose dataset based on this paper: https://arxiv.org/abs/1804.07739  We use Tensor Flow framework for our code implementation. In the second phase of the project we use our own designs for limbs architecture and achieving similar results as the paper using lesser number of limbs. 
 
-The generated fake poses from the first phase will then be used in our second phase where we generate back the original pose. 
 
-## **Phase 1** : Fake pose generation using GAN and Youtube Pose Dataset
+
+##  Fake pose generation using GAN and Youtube Pose Dataset
 
 We use the following papers to better understand the GAN network architecture: 
 
