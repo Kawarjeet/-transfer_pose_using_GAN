@@ -2,7 +2,7 @@ from keras.applications.vgg19 import VGG19
 from keras.layers import AveragePooling2D, Conv2D, Input
 from keras.models import Model
 
-# Our VGG implementation has the following differences from the standard vgg model:
+# Our VGG implementation has the following differences from the standard vgg model:-
 # 1. input size is now 256x256
 # 2. average pooling instead of max pooling to remove some grid-like artifacts during synthesis
 
